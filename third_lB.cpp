@@ -12,5 +12,5 @@ void main()
 	printf("Enter your number");
 	scanf_s("%d", &Input);
 	int Output = NumberOfDigits(Input);
-	printf("The number of digits in your number is %i", Output);
+	printf("The number of digits in number is %i", Output);
 }
